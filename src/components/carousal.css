@@ -1,0 +1,5 @@
+/* customCarousel.css */
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    color: black !important; /* Use !important to ensure the custom style takes precedence */
+  }
+  
