@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-// import Home from './screens/Home';
-import Restaurant from './screens/restaurant';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; import Home from './screens/Home';
+// import Restaurant from './screens/restaurant';
 import CardComponent from './components/card';
 import About from './screens/about';
 import Contact from './screens/contact';
