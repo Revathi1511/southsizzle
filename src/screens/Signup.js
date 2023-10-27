@@ -8,7 +8,7 @@ export default function Signup() {
         e.preventDefault();
 
         try {
-            const response = await fetch("http://localhost:5000/api/createuser", {
+            const response = await fetch("https://south-sizzle-backend.onrender.com/api/createuser", {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
